@@ -1,19 +1,19 @@
 Bash Scripting
 ==============
 * Profiles
-** User Profile
-** System Profile
+	* User Profile
+	* System Profile
 
 * Variables
-** Local Variables
-** Special Variables
-** Reserved Variables
-** Global Variables
+	* Local Variables
+	* Special Variables
+	* Reserved Variables
+	* Global Variables
 
 * Loops
-** For 
-** While
+	* For 
+	* While
 
 * Conditions
-** If
-** Case
+	* If
+	* Case
