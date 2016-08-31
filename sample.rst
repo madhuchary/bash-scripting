@@ -2,7 +2,6 @@ Sample code
 ===========
 This is a sample bash script
 
-	#!/bin/bash
-
+	#!/bin/bash 
 	# Comments start with hash (#)
 
