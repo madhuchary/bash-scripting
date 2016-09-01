@@ -7,3 +7,4 @@ User Profiles
 	~/.bashrc
 	~/.profile
 * The order of execution is bashrc and then profile
+
