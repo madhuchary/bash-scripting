@@ -4,7 +4,7 @@
 # This script checks user age and tells if he is allowed for voting or not allowed
 echo "Please enter your age"
 read age
-if [ $age -ge 18 ]
+if [ $age -age 18 ]
 then
 echo "allowed"
 else
