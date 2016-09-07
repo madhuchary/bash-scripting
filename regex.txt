@@ -1,0 +1,20 @@
+madhu
+madhuuuuu
+madddhuuu
+madu
+2016.10.10
+192.168.0.10
+
+dd/mm/yyyy
+yyyy-mm-dd
+
+
+09/07/2016
+
+10/10/2016
+
+from vi editor
+:1,$s/\(\d\{2\}\)\/\(\d\{2\}\)\/\(\d\{4\}\)/\3-\2-\1/g
+
+for more examples please refer
+https://en.wikipedia.org/wiki/Regular_expression

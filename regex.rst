@@ -6,7 +6,7 @@ Regular expression
 
 	.,any char
 	+,one or more
-	*,zero or more
+	\*,zero or more
 	?,zero or one
 	[],or - range 
 	{},and - multipy
