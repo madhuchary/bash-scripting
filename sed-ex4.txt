@@ -1,0 +1,5 @@
+madhu madhu madhu
+
+replace only 2nd madhu
+
+sed 's/madhu/MADHU/2' filename

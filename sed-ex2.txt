@@ -1,0 +1,8 @@
+Insert text after a string
+
+madhu
+sudhan
+
+sed '/string/ i string' filename
+sed '/string/ a string' filename
+

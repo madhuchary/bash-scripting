@@ -1,0 +1,6 @@
+madhu sudhan
+madhu 
+
+sed '/sudhan/s/madhu/MADHU/g' sed-ex3.txt
+
+replace only madhu where there is sudhan in the line

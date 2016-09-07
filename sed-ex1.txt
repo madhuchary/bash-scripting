@@ -1,0 +1,10 @@
+This example shows you how to delete blank lines
+
+sed -i '/^$/d' filename
+
+
+
+
+
+
+above are few blank lines
